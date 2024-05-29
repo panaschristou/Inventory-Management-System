@@ -4,4 +4,4 @@ Inventory Management System in Java (GUI w/ Swing, JDBC w/ SQLite, Multithreadin
 ![image](Images/ADD-BROADCASTING-DBS.png)
 
 
-![image](Images/OPT Verification.png)
+![image](Images/OPT%20Verification.png)
